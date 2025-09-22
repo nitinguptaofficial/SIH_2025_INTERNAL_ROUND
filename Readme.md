@@ -15,7 +15,7 @@ This README provides an overview of the project, including team details, relevan
 - *MEMBER_3* - 2025UEE4677 - [@yutish3](https://github.com/yutish3)
 - *MEMBER_4* - 2025UEE4637 - [@pallavisingh-17](https://github.com/pallavisingh-17)
 - *MEMBER_5* - 2025UEC4627 - [@shrritz](https://github.com/shrritz)
-- *MEMBER_6* - 2025UEE4679 - [@USERNAME](https://github.com/USERNAME)
+- *MEMBER_6* - 2025UEE4679 - [@Nikhil69comet](https://github.com/Nikhil69comet)
 
 ## Project Links
 
