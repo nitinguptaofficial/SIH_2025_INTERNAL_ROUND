@@ -20,6 +20,6 @@ This README provides an overview of the project, including team details, relevan
 ## Project Links
 
 - *SIH Presentation:* [Final SIH Presentation](https://github.com/nitinguptaofficial/SIH_2025_INTERNAL_ROUND/blob/main/files/Internal_PPT_HaazriHeros.pdf)
-- *Video Demonstration:* [Watch Video](UNLISTED YOUTUBE LINK)
+- *Video Demonstration:* [Watch Video](https://www.youtube.com/watch?v=sOZEdtOA0qk)
 - *Live Deployment:* [View Deployment](https://drive.google.com/file/d/1kBh6qYGiCao6SWpSuzdiooGkeyXE_9eo/view?usp=drivesdk)
 - *Source Code:* [GitHub Repository](https://github.com/nitinguptaofficial/SIH_2025_INTERNAL_ROUND)
